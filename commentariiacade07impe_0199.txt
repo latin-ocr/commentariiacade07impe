@@ -1,0 +1,35 @@
+”’ EWSDEM GENERIS. 1 8 9
+
+5. 31. Cum igitur habeantur tria integralia viden-
+dum est, num ea a se inuicem pendeant, hoc enim fi
+fuerit, habebitur aequatio algebraica inter t, u et z,
+quae dabit loco t et u substituatis assumtis valoribus ae-
+quationem modularem diffirentialcm secundi gradus.
+Qu) autem stellius in cafibus particularibus perspici
+potiit, an pendeant a se inuicem, ad alias formas eas
+reduci conuenit. Cum igitur fit zz-s( P-1—Q)'‘dx
+erit 11:77234-(72—711‘l(P—}—Q)¹³-¹deett:(2km
+-i-7z*m)lt—(km2-—m2—f-mn)z—†—-(n—m)²(k- 1 >s(P
+-1— Q)·³¹'·-²P²dx Quaerendum itaque est anj(P-÷Q}'²-²
+P2dx reduci poffit ad 1121ecs(P*}—Q)'‘*¹ de ers( P÷QJksztv
+Vel an fit s( P÷Q)¹²—2P2dx: exst P—-}- Q„¹‘*¹de-—1—-
+&j(P—†—Qs¹² dx—k—-V designante V quantitatem algebrai-
+cam quamcunque per a et ,τ datam, ct α ac ξ sunt
+coefficiemes ex constantiffimis et a compositae,
+
+ξ 32. Fiat igitur V:T(p—-÷-Q)k—¹ husus dif-
+ferentium pnsuo a constante fit dT(P-}—Q)k-¹-3-
+(k- 1 AT d{³>÷TdQ)(P-÷—Q)'²-2. Prodxbit ergo se-
+quen» acquum 1³an z aP²dx-{— aPde —†- &P2dx
+-ἦ- αὲΡριίςε *2— ἕρκη -÷- PdT ’ὶ- QdT÷ ‘k- 1)
+Tdi>÷s⁷e- 1 ssd-Q, qnae per (lx diuidi poterit. At
+T im debet accipi, vt termini repondentcs sese destru-
+ant, sumtis ad hoc idoneis pro α et ξ valori'ous.
+
+ξ, 33. At fi per sde non absolute determinetur
+
+z sed ‹.312111tit21ssQd-:, data Q vtcunqne per a et z,
+atque P per a et ,η habebitur ista aequatio de:
+de in qua mem-minatae x et z sunt a se inuicem
+Aa 3 sepa-
+

@@ -1,0 +1,44 @@
+DE NVMERIS PERffEcffss. 1 1
+
+A debere esse summam progreffionis Geometricae du-
+plae, et summam hanc debere efficere numerum pri-
+mum, quia talis debet effe Α; et hoc illud ipsum est,
+quod Euclides expreffis verbis requirit. vocato auum
+numero terminorum n, erit summa huius progreffionis
+ex n terminis constantis :2”41, igitur Azz'n—-x ‚
+p vero, cum fit Vltimus terminus huius progresfionis,
+erit 2'2‘·¹ , itaque numerus perfestus generaliter erit :2
+2'‘··'' (2‘1—1) adiee'tfi tamen hzic cautela, vt A:2”—1
+fit numerus incompositus. Quoniam vero ex valore
+ipssus A deducitur 2*¹:A-÷-1‚ et hinc 2’2-‘¹ :3²¹2
+
+2
+erit substituto hoc valore pAzAAJ‘A, vnde etiam pa:
+tet, quod omnes numeri perfesti fimul smt numeri trian-
+
+gulares, quorum latus est Α.
+Cum igitur in nupero schediasmate Clar. Eulerus
+
+noster asseruisset, eandem hanc Formulam 2⁷²-¹ (πθ-,1)
+semper efficere numerum perrectum, s1 pro n substitu-
+
+antur numeri primi sequentes, 1. 2. 3. 5. 7, ¹3· 17, ¹9·
+31. 41. et 47 , absoluto calculo horum numerorum ope
+inueni persedios sequentes: nempe fi fit. V
+
+n:2‚ 6 erit perfestus - ψ .. -
+
+ 
+
+1
+φεῖ-3, 28 - - —- .. 2
+nzs, 496 - - ., - ¹3
+nz7, 8128 - - - - 4
+⁷2:13, 33550336 “ ·· -‘' ς
+n:17, 8589869056 - - - 6
+⁷2:19, 137438691328 - - ·- 7
+72:31, 2305843008139952128 - 8
+
+n341, 2417851639228158837784576 - 9
+72:47,990352031423329271830448816128 2- nire:
+

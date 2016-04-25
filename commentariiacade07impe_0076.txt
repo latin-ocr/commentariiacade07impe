@@ -1,0 +1,23 @@
+66 SOLVTIO PROBLEMATIS ARITHMETICI &c
+
+ad casum, quo diuisorum numerus vnitate minuitur⁷
+vt in praecedente exemplo fecimus, reducitur3 At ex
+ea ipsa operatione facilior multoque breuior via sese
+prodit , qua statim proposita quaestio , quotcunque
+etiam fuerint diuisoroe, ad casum duorum diuisorum
+reduci potest3 quae regula ita se habet: Inueniendus sit
+numerus ,. qui per diuisores a,l1, c, d,e, quos nu«
+meros inter se primos effe pono , diuisus relin-
+quat respestiue haec residua p, q, r, s, t. Huic quaesti-
+oni satisfacit iste numerus Ap÷Bq÷Cr÷Ds÷Et
+-iss-mabcde‚ in qua> expressione A est numeruS‚ qui pei·
+fastum* b c de diuisus nihil relinquat, per> a vero diui-
+ffis relinquat vnitatem3 Β est numeru5‚. qui per aede
+diuisus relinquat nihil ,. perb vero vnitatem3 C est nu-
+merus qui· per abde diuisus. nihi} relinquat , per c
+vero vnitatem·⁷ D est numerus- qui per· abce nihil
+relinquat, per d vero vnitatemg. atque E est numerus
+perv a b c d diuisus nihil relinquat, per e vero vnitatem,
+qui' ergo numeri per⁴ regulam pro duobus* diuisoribus
+datam inueniri potsuntg.
+

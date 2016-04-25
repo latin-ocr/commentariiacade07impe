@@ -1,0 +1,32 @@
+56 SOLVTIO PROBLEMATIS ARITHMETICI
+
+ς. 14. Compendium hinc se prodit ad supra da-
+tam regulam adiiciendum, quod in hoc constat, vt,
+postquam numerus Q per ultimum seriei formatae ter-
+minum est multiplicatus, fastum per maiorem diui-
+sorem a diffidatur, utque refiduum loco 1psius faffi ad-
+hibeatur. Scilicet hoc ressduum per minorem diuiso-
+rem h multiplicatum atque refiduo q austum dabit nu—
+merum quuesxtum. Atque iste numerus hoc paeto in-
+uentus erit minimus, qui filtisfacit. Praeterea hac di-
+uifione effici potest vt refiduum prodeat affirmatiuuum‚
+etiamst diuidendus fuerit negatiuus. Ita in primo
+exemplo ξ. 12 habebatur-279, qui numerus per 103
+diuisus, sumto quotoz3, relinquit÷3Q Ex quo
+numerus quaesitus minimus est z 25457430:
+
+Ι735·
+
+ς. 15. Fieri deinde etiam potest, vt huiusmodi
+exempla proponantur, quae solutionem omnino non ad-
+
+mittant, vti fi quaeratur numerus qui per 24 diuisus
+relinquat 13 ‚ per 15 vero diuisus relinquat 93 talis enim
+numerus per alteram conditionem deberet esse per 3
+diuifibilis, per alteram [ecus. Idem vero etiam ι’ρίέι
+regula ostendit, nunquam enim ad tale refiduum, ex-
+cepto 0, deuenietur, quod diuidat vnleu 4, vti ex ipsa
+operatione videre est
+
+15}
+

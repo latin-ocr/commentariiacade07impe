@@ -1,0 +1,36 @@
+62 SOLVTIO PROBLEMATIS ARITHMETICI
+
+3 , 4, 5 , 6 diuisus respeffiue relinquat numeros 1 ‚ 2,
+3, 4, 5, at per 7 diuidi queat, propter residua pro·
+polita inaequalia. Sed hae-c quaestio congruit cum
+hae: inuenire numerum qui per 2, 3 , ΔΓ, 5 ‚ 6 diui-
+sus relinquat —1 et per 7 nihil. llli iam conditioni
+s21ti=fi1cit forma 60772—13 quate numerus quaeritur
+qui per 60 diuisus -1, at pet 7 nihii relinqu-it, fit
+itaque az60‚b.::7‚p:—1,q10, et πεῖ-ι at-
+
+que operatione vt aute instituta est Qz- 1 quod in
+
+-—17 dudhlm dat-—i— 17, hocque pei· l) multiplicatum
+dat 119 numerum quaesitum.
+
+ξ. 24. Ex his duobus exemplis apparet, quomodo
+huiusmodi quaestiones, in quibus quotcunque diuisores
+proponuntur, quibus autem duo tantum residua respon—-
+dent, per supra datas regulas solui queant3 statim enim
+quaestio ad quaestionem duorum diuisorum reducitur:
+vti fi omnia residua sunt aequalia, quaestio perinde iol-
+uitur, acsi vnicus diuisor fuisset propositus. At si re-
+sidua sunt inaequalia, tum nihilominus repetendis his
+operationibus, quibus pro duobus diuiioiibus vii sumus,
+solutio poterit obtineri. Primo enim dnobus diuum-i-
+bus sitizsievi debet, tum tertius affluimus, deinde quur—
+tiis, donce omuibus erit fiitisfiietum. Hoc veto com-
+niodiiiime exempli: explicabitur.
+
+ξ. 25.*Qi:1er2unus igitur numerum , qui per 7
+diuitiis relinquat 6, per 9 relinqunt 7, per 11 relina
+quat 8 ct pet 17 relinquat 1. Ex his ium quatuor
+
+condi-
+
